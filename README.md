@@ -1,2 +1,2 @@
 # snakegame
-simple symbols snake game in cpp in 3 techinques oop,static functions 
+simple symbols snake game in cpp in 2 techinques oop,static functions 
